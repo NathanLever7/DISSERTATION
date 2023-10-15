@@ -1,6 +1,6 @@
 # DISSERTATION
 Data-Driven Energy Cost Minimisation Based On Smart Meter Data Analytics
-This is the code for my dissertation titles 'Data-Driven Energy COst Minimisation Based On Smart Meter Data Analytics', completed in collaberation with Bruntwood, during my MSc in Data Science at The University of Manchester.
+This is the code for my dissertation titles 'Data-Driven Energy Cost Minimisation Based On Smart Meter Data Analytics', completed in collaberation with Bruntwood, during my MSc in Data Science at The University of Manchester.
 The code consists of:
   Preprocessing
   EDA
